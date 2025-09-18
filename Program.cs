@@ -1,8 +1,10 @@
-using dotnetBanking.Data;
-using dotnetBanking.Repositories;
-using dotnetBanking.Services;
+using dotnetBanking.Api.Data;
+using dotnetBanking.Api.Repositories;
+using dotnetBanking.Api.Services;
 using Microsoft.EntityFrameworkCore;
 
+
+namespace dotnetBanking;
 var builder = WebApplication.CreateBuilder(args);
 
 // Controllers & Swagger

@@ -1,4 +1,4 @@
-namespace dotnetBanking;
+namespace dotnetBanking.Models;
 
 public class Contas
 {

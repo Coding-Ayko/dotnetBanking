@@ -1,8 +1,7 @@
-using api.Dtos;
-using api.Services;
+using dotnetBanking.Api.Dtos;
+using dotnetBanking.Api.Services;
 using Microsoft.AspNetCore.Mvc;
-
-namespace api.Controllers;
+namespace dotnetBanking.Api.Controllers;
 
 [ApiController]
 [Route("api/v1/[controller]")]

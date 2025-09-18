@@ -1,9 +1,9 @@
 using System.Threading;
 using System.Threading.Tasks;
-using api.Domain;
-using api.Dtos;
-using api.Repositories;
-using api.Services;
+using dotnetBanking.Api.Domain;
+using dotnetBanking.Api.Dtos;
+using dotnetBanking.Api.Repositories;
+using dotnetBanking.Api.Services;
 using Moq;
 using Xunit;
 

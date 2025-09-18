@@ -1,7 +1,6 @@
-using api.Domain;
+using dotnetBanking.Api.Domain;
 using Microsoft.EntityFrameworkCore;
-
-namespace api.Data;
+namespace dotnetBanking.Api.Data;
 
 public class AppDbContext : DbContext
 {

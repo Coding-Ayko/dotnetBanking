@@ -1,4 +1,4 @@
-namespace api.Dtos;
+namespace dotnetBanking.Api.Dtos;
 
 public record CreateContaDto(string Titular, decimal SaldoInicial);
 public record UpdateContaDto(string Titular, decimal Saldo);

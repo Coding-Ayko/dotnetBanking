@@ -1,4 +1,4 @@
-namespace api.Domain;
+namespace dotnetBanking.Api.Domain;
 
 public class Conta
 {

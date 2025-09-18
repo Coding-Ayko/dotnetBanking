@@ -1,8 +1,7 @@
-using api.Data;
-using api.Domain;
+using dotnetBanking.Api.Data;
+using dotnetBanking.Api.Domain;
 using Microsoft.EntityFrameworkCore;
-
-namespace dotnetBanking.Repositories;
+namespace dotnetBanking.Api.Repositories;
 
 public class ContaEfRepository : IContaRepository
 {

@@ -2,11 +2,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-banking", "dotnet-banking.csproj", "{26B81EEF-A731-C686-C290-88603FD5DAEF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetBanking", "dotnetBanking.csproj", "{26B81EEF-A731-C686-C290-88603FD5DAEF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{0AB3BF05-4346-4AA6-1389-037BE0695223}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-banking.tests", "tests\api.tests\dotnet-banking.tests.csproj", "{8451EE47-33F0-2877-181A-61BCDC218B43}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetBanking.tests", "tests\api.tests\dotnetBanking.tests.csproj", "{8451EE47-33F0-2877-181A-61BCDC218B43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

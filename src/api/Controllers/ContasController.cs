@@ -2,7 +2,7 @@ using api.Dtos;
 using api.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace dotnetBanking.Controllers;
+namespace api.Controllers;
 
 [ApiController]
 [Route("api/v1/[controller]")]

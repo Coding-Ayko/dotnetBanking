@@ -1,8 +1,8 @@
-using dotnet_banking_api.Domain;
-using dotnet_banking_api.Dtos;
-using dotnet_banking_api.Repositories;
+using api.Domain;
+using api.Dtos;
+using api.Repositories;
 
-namespace dotnet_banking_api.Services;
+namespace api.Services;
 
 public interface IContaService
 {

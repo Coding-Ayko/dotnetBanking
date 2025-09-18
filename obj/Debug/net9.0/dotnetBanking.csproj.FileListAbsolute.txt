@@ -6,3 +6,4 @@ C:\GitHub\dotnetBanking\obj\Debug\net9.0\dotnetBanking.AssemblyInfo.cs
 C:\GitHub\dotnetBanking\obj\Debug\net9.0\dotnetBanking.csproj.CoreCompileInputs.cache
 C:\GitHub\dotnetBanking\obj\Debug\net9.0\dotnetBanking.MvcApplicationPartsAssemblyInfo.cs
 C:\GitHub\dotnetBanking\obj\Debug\net9.0\dotnetBanking.MvcApplicationPartsAssemblyInfo.cache
+C:\GitHub\dotnetBanking\obj\Debug\net9.0\dotnetBanking.sourcelink.json

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\dotnet-banking\\dotnet-banking-api.csproj": {}
+    "C:\\GitHub\\dotnet-banking\\dotnetBanking.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\dotnet-banking\\dotnet-banking-api.csproj": {
+    "C:\\GitHub\\dotnet-banking\\dotnetBanking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\dotnet-banking\\dotnet-banking-api.csproj",
-        "projectName": "dotnet-banking-api",
-        "projectPath": "C:\\GitHub\\dotnet-banking\\dotnet-banking-api.csproj",
+        "projectUniqueName": "C:\\GitHub\\dotnet-banking\\dotnetBanking.csproj",
+        "projectName": "dotnetBanking",
+        "projectPath": "C:\\GitHub\\dotnet-banking\\dotnetBanking.csproj",
         "packagesPath": "C:\\Users\\tauan\\.nuget\\packages\\",
         "outputPath": "C:\\GitHub\\dotnet-banking\\obj\\",
         "projectStyle": "PackageReference",

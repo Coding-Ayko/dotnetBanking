@@ -1,4 +1,4 @@
-namespace dotnet_banking_api;
+namespace dotnetBanking;
 
 public class WeatherForecast
 {

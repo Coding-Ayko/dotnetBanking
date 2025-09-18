@@ -1,6 +1,6 @@
-using dotnet_banking_api.Domain;
+using dotnetBanking.Domain;
 
-namespace dotnet_banking_api.Repositories;
+namespace dotnetBanking.Repositories;
 
 public interface IContaRepository
 {

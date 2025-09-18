@@ -6,17 +6,17 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "dotnet-banking-api/1.0.0": {
+      "dotnetBanling/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "9.0.9",
           "Swashbuckle.AspNetCore": "9.0.4"
         },
         "runtime": {
-          "dotnet-banking-api.dll": {}
+          "dotnetBanking.dll": {}
         }
       },
       "Microsoft.AspNetCore.OpenApi/9.0.9": {
-        "dependencies": {
+        "dependencies": {dotnetBanking
           "Microsoft.OpenApi": "1.6.25"
         },
         "runtime": {
@@ -76,7 +76,7 @@
     }
   },
   "libraries": {
-    "dotnet-banking-api/1.0.0": {
+    "dotnetBanking/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

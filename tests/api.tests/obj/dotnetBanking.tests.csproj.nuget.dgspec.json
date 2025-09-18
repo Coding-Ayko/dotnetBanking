@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\dotnet-banking\\tests\\api.tests\\dotnetBanking.tests.csproj": {}
+    "C:\\GitHub\\dotnetBanking\\tests\\api.tests\\dotnetBanking.tests.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\dotnet-banking\\dotnetBanking.csproj": {
+    "C:\\GitHub\\dotnetBanking\\dotnetBanking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\dotnet-banking\\dotnetBanking.csproj",
+        "projectUniqueName": "C:\\GitHub\\dotnetBanking\\dotnetBanking.csproj",
         "projectName": "dotnetBanking",
-        "projectPath": "C:\\GitHub\\dotnet-banking\\dotnetBanking.csproj",
+        "projectPath": "C:\\GitHub\\dotnetBanking\\dotnetBanking.csproj",
         "packagesPath": "C:\\Users\\tauan\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\dotnet-banking\\obj\\",
+        "outputPath": "C:\\GitHub\\dotnetBanking\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tauan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\GitHub\\dotnet-banking\\tests\\api.tests\\dotnetBanking.tests.csproj": {
+    "C:\\GitHub\\dotnetBanking\\tests\\api.tests\\dotnetBanking.tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\dotnet-banking\\tests\\api.tests\\dotnetBanking.tests.csproj",
+        "projectUniqueName": "C:\\GitHub\\dotnetBanking\\tests\\api.tests\\dotnetBanking.tests.csproj",
         "projectName": "dotnetBanking.tests",
-        "projectPath": "C:\\GitHub\\dotnet-banking\\tests\\api.tests\\dotnetBanking.tests.csproj",
+        "projectPath": "C:\\GitHub\\dotnetBanking\\tests\\api.tests\\dotnetBanking.tests.csproj",
         "packagesPath": "C:\\Users\\tauan\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\dotnet-banking\\tests\\api.tests\\obj\\",
+        "outputPath": "C:\\GitHub\\dotnetBanking\\tests\\api.tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tauan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,8 +112,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\GitHub\\dotnet-banking\\dotnetBanking.csproj": {
-                "projectPath": "C:\\GitHub\\dotnet-banking\\dotnetBanking.csproj"
+              "C:\\GitHub\\dotnetBanking\\dotnetBanking.csproj": {
+                "projectPath": "C:\\GitHub\\dotnetBanking\\dotnetBanking.csproj"
               }
             }
           }

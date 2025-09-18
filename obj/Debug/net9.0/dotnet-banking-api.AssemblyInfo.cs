@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("dotnet-banking-api")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("dotnetBanking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("dotnet-banking-api")]
-[assembly: System.Reflection.AssemblyTitleAttribute("dotnet-banking-api")]
+[assembly: System.Reflection.AssemblyProductAttribute("dotnetBanking")]
+[assembly: System.Reflection.AssemblyTitleAttribute("dotnetBanking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

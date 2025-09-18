@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnetBanking.tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23c69de09c40d7636a1f4b2ac1c8fcd5832cf3d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d278453c0c60ac0e64bf4a59f8ec7106c951a526")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnetBanking.tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnetBanking.tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

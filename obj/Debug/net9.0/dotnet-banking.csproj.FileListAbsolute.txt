@@ -1,0 +1,8 @@
+C:\GitHub\dotnet-banking\obj\Debug\net9.0\dotnet-banking.csproj.AssemblyReference.cache
+C:\GitHub\dotnet-banking\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\GitHub\dotnet-banking\obj\Debug\net9.0\dotnet-banking.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\dotnet-banking\obj\Debug\net9.0\dotnet-banking.AssemblyInfoInputs.cache
+C:\GitHub\dotnet-banking\obj\Debug\net9.0\dotnet-banking.AssemblyInfo.cs
+C:\GitHub\dotnet-banking\obj\Debug\net9.0\dotnet-banking.csproj.CoreCompileInputs.cache
+C:\GitHub\dotnet-banking\obj\Debug\net9.0\dotnet-banking.MvcApplicationPartsAssemblyInfo.cs
+C:\GitHub\dotnet-banking\obj\Debug\net9.0\dotnet-banking.MvcApplicationPartsAssemblyInfo.cache
